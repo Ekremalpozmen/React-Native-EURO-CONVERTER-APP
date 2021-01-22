@@ -1,6 +1,7 @@
 # Euro Converter
  **Bu projemde axios kullanarak Euro para birimi dönüştürücü yaptım.**
 **Uygulama sayesinde anlık olarak Euro para birimini Türk Lirası, Kanada Doları, Japon Yen'i ve İngiliz Sterlini gibi paralardaki değerini görebilirsiniz.**
+Play Store Linki:https://play.google.com/store/apps/details?id=com.euroconventer
 
 Proje Görselleri:
 ![1](https://user-images.githubusercontent.com/62023846/105481242-d65b2480-5cb7-11eb-9867-ee8254523c6e.png) 
